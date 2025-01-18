@@ -10,7 +10,7 @@ Program dirancang untuk alat bantu Tunanetra berjalan menggunakan tongkat
 * Battery 9v
 * Buzzer
 
-## Batasan
+## Batasan:
 1. Tongkat diatur untuk mendeteksi benda dengan jarak 15cm.
 2. Objek yang terdeteksi hanya bagian depan.
 3. Ukuran panjang tongkat dapat disetel hingga 100cm.
