@@ -17,6 +17,6 @@ Program dirancang untuk alat bantu Tunanetra berjalan menggunakan tongkat
 4. Tongkat hanya mendeteksi benda mati.
 5. Menggunakan batteray 9v.
 
-Video lengkap dapat dicek di:
+Video lengkap dan Uji Coba:
 
 https://youtu.be/Vwrr-r9nIe8
